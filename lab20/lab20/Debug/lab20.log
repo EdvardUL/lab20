@@ -1,0 +1,4 @@
+﻿  lab20.cpp
+C:\Users\User\source\repos\lab20\lab20\task3.h(7,6): warning C4101: n: неиспользованная локальная переменная
+C:\Users\User\source\repos\lab20\lab20\task3.h(39): warning C4715: record_array_txt: значение возвращается не при всех путях выполнения
+  lab20.vcxproj -> C:\Users\User\source\repos\lab20\Debug\lab20.exe
